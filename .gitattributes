@@ -1,0 +1,14 @@
+* text=auto eol=crlf
+
+*.DAT binary
+*.EXE binary
+*.PIF binary
+*.SAV binary
+*.bin binary
+*.png binary
+*.webp binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
